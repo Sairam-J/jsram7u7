@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Blockchain Game.
 - 💬 Ask me about Unity or Game developing stuffs.
-- 📫 How to reach me: Instagram - @_js_ram, [Youtube - JsGamez](https://www.youtube.com/@jsgamez7u7/featured)
+- 📫 How to reach me: [Playstore - JsGamez](https://play.google.com/store/apps/dev?id=7598574006580555672), [Youtube - JsGamez](https://www.youtube.com/@jsgamez7u7/featured)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I Spent almost 12 hours in front of computer everyday
 
