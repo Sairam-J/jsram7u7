@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, Iam Sairam J!👋
 
-<!--
-**jsram7u7/jsram7u7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Open World Mobile Game.
+- 🌱 I’m currently learning Blockchain.
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Blockchain Game.
+- 💬 Ask me about Unity or Game developing stuffs.
+- 📫 How to reach me: Instagram - @_js_ram
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I Spent almost 12 hours in front of computer everyday
+
