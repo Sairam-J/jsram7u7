@@ -1,8 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sairam J</h1>
 <h3 align="center">A passionate Game Developer from India.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsram7u7&label=Profile%20views&color=0e75b6&style=flat" alt="jsram7u7" /> </p>
 
@@ -23,9 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sairam j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairam j" height="30" width="40" /></a>
-<a href="https://fb.com/jsram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jsram" height="30" width="40" /></a>
-<a href="https://instagram.com/_js_ram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_js_ram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jsgamez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jsgamez" height="30" width="40" /></a>
+<a href="https://instagram.com/js_gamez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="js_gamez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,6 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsram7u7&show_icons=true&locale=en&layout=compact" alt="jsram7u7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsram7u7&show_icons=true&locale=en" alt="jsram7u7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jsram7u7&" alt="jsram7u7" /></p>
-
