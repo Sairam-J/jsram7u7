@@ -12,11 +12,11 @@
 
 - 🤝 I’m looking for help with **Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/watch?v=eqj1zJZmNrU](https://www.youtube.com/watch?v=eqj1zJZmNrU)
+- 👨‍💻 All of my projects are available at [https://www.youtube.com/@polyowlStudios](https://www.youtube.com/@polyowlStudios)
 
 - 💬 Ask me about **Unity Game Developing.**
 
-- 📫 How to reach me **[Youtube - JsGamez](https://www.youtube.com/@jsgamez7u7/featured) , [Playstore - JsGamez](https://play.google.com/store/apps/dev?id=7598574006580555672)**
+- 📫 How to reach me **[Youtube - PolyowlStudios](https://www.youtube.com/@polyowlStudios) , [Playstore - PolyowlStudios](https://play.google.com/store/apps/dev?id=7598574006580555672&hl=hi&gl=US)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
